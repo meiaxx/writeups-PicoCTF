@@ -1,1 +1,3 @@
 
+(first) : click any button and intercept with burpsuite
+(second) : Send to repeater | and change the method (POST/GET) to HEAD
